@@ -58,27 +58,13 @@ O projeto demonstra como os indicadores econômicos e sociais do Brasil evoluír
 
 🔎 Para mais detalhes, consulte o código-fonte! 🚀
 
-## 🛠 Como Executar o Projeto
+## 🛠 Como Rodar o Projeto
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/gabriel-afd/Analise_Historica_Indicadores_Brasil.git
-   ```
-2. Acesse o diretório do projeto:
-   ```bash
-   cd Analise_Historica_Indicadores_Brasil
-   ```
-3. Crie um ambiente virtual e instale as dependências:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # No Windows: venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
-4. Abra o Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-5. Execute o arquivo **Análise_Histórica_Indicadores_Brasil.ipynb**.
+Este projeto foi desenvolvido no **Google Colab**, portanto, você não precisa se preocupar com configurações locais ou bibliotecas adicionais. Para rodá-lo, siga os passos abaixo:
+
+1. Acesse o notebook [aqui](https://github.com/gabriel-afd/Analise_Mercado_Games/blob/main/Projeto_An%C3%A1lise_Mercado_de_Games_PS4.ipynb).
+2. Clique em "Open in Colab" no canto superior direito ou acesse diretamente pelo Google Colab.
+3. Execute as células do notebook para começar a análise.
 
 ## 📬 Contato
 
